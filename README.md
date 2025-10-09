@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Richard
 "Hello, World!" <br>
-I'm a software engineer and Computer Science graduate with a specialization in Intelligent Systems from UC Irvine. <br>
+I'm a software engineer and Computer Science graduate with a specialization in Intelligent Systems from UC Irvine. <br><br>
 🌱 I’m a developer who enjoys turning complex problems into dependable software. I value clarity and testability, with a consistent focus on performance and usability where I thrive at the intersection of concept and build, making products feel effortless. <br>
-🌱 I’m currently working on ReviseAI, an essay feedback tool that scores writing and delivers targeted, line-level suggestions in seconds. 
+🌱 I’m currently working on ReviseAI, an essay feedback tool that scores writing and delivers targeted, line-level suggestions in seconds. <br>
 📫 How to reach me: ...
 <!--
 **richzhangg/richzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
