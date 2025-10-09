@@ -3,8 +3,8 @@
 I'm a software engineer and Computer Science graduate with a specialization in Intelligent Systems from <b>UC Irvine</b>. <br><br>
 🌱 I’m a developer who enjoys turning complex problems into dependable software. I value clarity and testability, with a consistent focus on performance and usability, making products feel effortless. <br>
 🌱 I’m currently working on <b>ReviseAI</b>, an essay feedback model that scores writing and delivers targeted, line-level suggestions in seconds. <br><br>
+<em>👨🏻‍💻 I recently moved to this account so some older commits won’t appear due to account merging.</em> <br>
 Shoot me a message! I am always open to chat about roles, projects, or ideas. <br>
-<em>I recently moved to this account so some older commits won’t appear on the graph due to email changes.</em> <br>
 Check out my <a href="https://richzhangg.github.io/Richard-s-Portfolio/"><strong>Website</strong></a>! Connect with me on <a href="https://www.linkedin.com/in/richard-zhang-6784b0191/"><strong>LinkedIn</strong></a>! 
 
 <!--
