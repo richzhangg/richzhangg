@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Richard
-"Hello, World!"
+"Hello, World!" <br>
 I'm a software engineer and Computer Science graduate with a specialization in Intelligent Systems from UC Irvine.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
