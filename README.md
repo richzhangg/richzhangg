@@ -4,7 +4,7 @@ I'm a software engineer and Computer Science graduate with a specialization in I
 🌱 I’m a developer who enjoys turning complex problems into dependable software. I value clarity and testability, with a consistent focus on performance and usability, making products feel effortless. <br>
 🌱 I’m currently working on **ReviseAI**, an essay feedback model that scores writing and delivers targeted, line-level suggestions in seconds. <br><br>
 Shoot me a message! I am always open to chat about roles, projects, or ideas. <br>
-Connect with me on [LinkedIn](https://www.linkedin.com/in/richard-zhang-6784b0191/)! 
+Check out my [Website](https://richzhangg.github.io/Richard-s-Portfolio/)! Connect with me on [LinkedIn](https://www.linkedin.com/in/richard-zhang-6784b0191/)! 
 <!--
 **richzhangg/richzhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
