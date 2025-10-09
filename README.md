@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-**"Hello, World!"** <br>
+<b>"Hello, World!"</b> <br>
 I'm a software engineer and Computer Science graduate with a specialization in Intelligent Systems from **UC Irvine**. <br><br>
 🌱 I’m a developer who enjoys turning complex problems into dependable software. I value clarity and testability, with a consistent focus on performance and usability, making products feel effortless. <br>
 🌱 I’m currently working on **ReviseAI**, an essay feedback model that scores writing and delivers targeted, line-level suggestions in seconds. <br><br>
