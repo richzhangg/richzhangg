@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=M.S.+Computer+Science+%40+USC;B.S.+Computer+Science+%40+UC+Irvine;AI+%2F+ML+Engineer+%7C+Full+Stack+Developer;ERP+Developer+%40+PacSun;Building+intelligent+systems+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=800&lines=M.S.+Computer+Science+and+Artificial+Intelligence+%40+USC;B.S.+Computer+Science+%40+UC+Irvine;Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;ERP+Developer;Cloud+%2F+DevOps+Engineer;ML+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://richzhangg.github.io" target="_blank">
+  <a href="https://richardzhang.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/richzhangg" target="_blank">
+  <a href="https://linkedin.com/in/richard-zhang-6784b0191" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:richzhangg2003@gmail.com">
@@ -43,11 +43,9 @@
 ## 🧠 About Me
 
 <p>
-I am a graduate student pursuing my <strong>M.S. in Computer Science and Artificial Intelligence at the University of Southern California</strong>, building on a strong foundation from my B.S. in Computer Science (Intelligent Systems) at UC Irvine. I engineer end-to-end intelligent systems — from object detection pipelines and NLP architectures to enterprise ERP migrations and production full-stack applications.
+I'm an incoming M.S. Computer Science, Artificial Intelligence student at the University of Southern California. I recently graduated from the University of California, Irvine with a B.S. in Computer Science, specializing in Intelligent Systems. I'm a developer who enjoys turning complex problems into dependable software. I value clarity and testability, with a consistent focus on performance and usability, making products feel effortless.
 
-My work spans the full engineering stack: I design and train ML models, architect scalable backend services, and deliver polished user-facing products. At PacSun I lead data validation across 1M+ ERP records using Azure Synapse Analytics; at OinAuto I trained and deployed a real-time object detection system for Honda's autonomous driving fleet; and at Patriot Conceptions I owned a full-stack candidate review platform used by 100+ users.
-
-I approach engineering with a product mindset — I care not just about model accuracy or query performance, but about the systems and experiences those decisions enable.
+When I'm not coding, you will probably find me exploring coffee shops, going to the beach, or playing with my dog, Sky. Shoot me a message! I am always happy to chat about roles, projects, and ideas.
 </p>
 
 **Open To:**
@@ -77,7 +75,7 @@ I approach engineering with a product mindset — I care not just about model ac
 
 <p align="center">
   <strong>Cloud, DevOps & Tooling</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,jira,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,jira&theme=dark" />
 </p>
 
 ---
@@ -219,66 +217,6 @@ Owned the complete end-to-end development of a production full-stack candidate r
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🎓 **USC Graduate Admission** | Accepted into M.S. Computer Science & AI at the University of Southern California |
-| 📈 **23% Detection Accuracy Gain** | Achieved measurable improvement on Honda driving-scene perception system at OinAuto |
-| 🏗️ **1M+ Record ERP Migration** | Leading enterprise-scale data validation at PacSun across Island Pacific → Dynamics 365 |
-| 🌐 **92% Scraping Accuracy** | Built a production-grade news extraction pipeline with validated full-text extraction rates |
-| 👥 **100+ User Platform** | Delivered and maintained a full-stack application with real-world production traffic |
-| ⚡ **30 FPS Real-Time Inference** | Deployed live object detection model maintaining smooth video performance in production |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<p align="center">
-  <strong>University of Southern California</strong><br/><br/>
-  <img src="https://img.shields.io/badge/M.S.%20CS%20%26%20Artificial%20Intelligence-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>University of California, Irvine</strong><br/><br/>
-  <img src="https://img.shields.io/badge/B.S.%20Computer%20Science%20Intelligent%20Systems-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-</p>
-
-<p align="center">
-  <strong>Coursework Credentials</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Mining-7C3AED?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Information%20Retrieval%20%26%20Search-4F46E5?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database%20Systems-5B21B6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-7C3AED?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HCI%20%26%20UI%20Software-6A0DAD?style=flat-square&logoColor=white"/>
-</p>
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/richzhangg" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/richzhangg" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/richzhangg" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/richzhangg" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -287,31 +225,7 @@ Owned the complete end-to-end development of a production full-stack candidate r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richzhangg&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=E2E8F0&langs_count=10" width="48%"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richzhangg&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=richzhangg&bg_color=0D0D0D&color=8B5CF6&line=7C3AED&point=6A0DAD&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/richzhangg/richzhangg/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ---
@@ -352,7 +266,7 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/richzhangg" target="_blank">
+  <a href="https://linkedin.com/in/richard-zhang-6784b0191" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -362,8 +276,8 @@ current_focus:
   </a>
 </p>
 <p align="center">
-  <a href="https://richzhangg.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-richzhangg.github.io-5B21B6?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+  <a href="https://richardzhang.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-richardzhang.vercel.app-5B21B6?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
   </a>
 </p>
 
