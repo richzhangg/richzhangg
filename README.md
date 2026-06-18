@@ -51,7 +51,6 @@ When I'm not coding, you will probably find me exploring coffee shops, going to 
 **Open To:**
 - 🔹 Full-Time SWE / ML Engineering Roles (2026)
 - 🔹 Research Collaborations in NLP and Computer Vision
-- 🔹 Open Source Contributions
 - 🔹 AI-powered Product Engineering Projects
 
 ---
@@ -154,10 +153,12 @@ Architected Flutter-to-native bridges using platform channels to invoke Java/Kot
 
 ## 💼 Experience
 
-### ERP Developer Intern — PacSun
-`Oct 2025 – Present` · Anaheim, CA
+<details>
+<summary><strong>🏢 ERP Developer Intern — PacSun</strong> &nbsp;&nbsp; <code>Oct 2025 – Present</code> · Anaheim, CA</summary>
 
-Leading data integrity assurance for a large-scale enterprise ERP migration from Island Pacific to Microsoft Dynamics 365. Embedded within the Business Intelligence team, bridging the technical gap between legacy system data models and the incoming D365 architecture.
+<br/>
+
+> Leading data integrity assurance for a large-scale enterprise ERP migration from Island Pacific to Microsoft Dynamics 365. Embedded within the Business Intelligence team, bridging the technical gap between legacy system data models and the incoming D365 architecture.
 
 - Developed SQL validation queries via **Azure Synapse Analytics** to audit and compare 1M+ records across ERP systems, flagging mismatches and accelerating migration workflows
 - Built **Python and C#** programs to automate large-scale dataset comparison, reducing manual validation time significantly
@@ -174,12 +175,16 @@ Leading data integrity assurance for a large-scale enterprise ERP migration from
   <img src="https://img.shields.io/badge/Microsoft%20Dynamics%20365-7C3AED?style=flat-square&logoColor=white"/>
 </p>
 
+</details>
+
 ---
 
-### Machine Learning Engineering Intern — OinAuto
-`Jul 2024 – Sep 2024` · California
+<details>
+<summary><strong>🤖 Machine Learning Engineering Intern — OinAuto</strong> &nbsp;&nbsp; <code>Jul 2024 – Sep 2024</code> · California</summary>
 
-Partnered directly with Honda to develop and validate a real-time autonomous driving perception system. Owned the full ML lifecycle from model training to live video deployment.
+<br/>
+
+> Partnered directly with Honda to develop and validate a real-time autonomous driving perception system. Owned the full ML lifecycle from model training to live video deployment.
 
 - Trained **SSD MobileNet V3** in TensorFlow/Keras on a multi-class driving dataset, achieving a **23% improvement in detection accuracy** over the baseline
 - Deployed the model with **OpenCV** for live video inference, auto-rendering bounding boxes and confidence labels for 10+ object classes at a smooth **30 fps**
@@ -195,12 +200,16 @@ Partnered directly with Honda to develop and validate a real-time autonomous dri
   <img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=flat-square&logoColor=white"/>
 </p>
 
+</details>
+
 ---
 
-### Full-Stack Software Development Intern — Patriot Conceptions
-`Aug 2023 – Jan 2024` · California
+<details>
+<summary><strong>💻 Full-Stack Software Development Intern — Patriot Conceptions</strong> &nbsp;&nbsp; <code>Aug 2023 – Jan 2024</code> · California</summary>
 
-Owned the complete end-to-end development of a production full-stack candidate review platform — from database schema design and API architecture to authentication, security rules, and CI/CD pipeline standardization.
+<br/>
+
+> Owned the complete end-to-end development of a production full-stack candidate review platform — from database schema design and API architecture to authentication, security rules, and CI/CD pipeline standardization.
 
 - Designed and shipped a candidate review application serving **100+ active users**, with full CRUD support, authentication, and role-scoped data access
 - Implemented **Firebase Authentication** for secure user login and built **Next.js API routes** with input validation and Firestore security rules
@@ -214,6 +223,8 @@ Owned the complete end-to-end development of a production full-stack candidate r
   <img src="https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-6A0DAD?style=flat-square&logoColor=white"/>
 </p>
+
+</details>
 
 ---
 
@@ -232,29 +243,26 @@ Owned the complete end-to-end development of a production full-stack candidate r
 
 ## 🎯 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Advanced deep learning architectures for multimodal AI
-    - Large Language Model fine-tuning and RAG pipelines
-    - Distributed systems design and cloud-native architecture
+**Learning:**
+- Advanced deep learning architectures for multimodal AI
+- Large Language Model fine-tuning and RAG pipelines
+- Distributed systems design and cloud-native architecture
 
-  building:
-    - UnbiasedNews: real-time cross-source NLP news intelligence pipeline
-    - AI-powered developer productivity tools
-    - Scalable full-stack applications with ML backends
+**Building:**
+- UnbiasedNews: real-time cross-source NLP news intelligence pipeline
+- AI-powered developer productivity tools
+- Scalable full-stack applications with ML backends
 
-  exploring:
-    - Retrieval-Augmented Generation (RAG) at scale
-    - Autonomous agent frameworks (LangChain, LlamaIndex)
-    - Enterprise data engineering on Azure and AWS
+**Exploring:**
+- Retrieval-Augmented Generation (RAG) at scale
+- Autonomous agent frameworks (LangChain, LlamaIndex)
+- Enterprise data engineering on Azure and AWS
 
-  open_to:
-    - Full-time SWE or ML Engineering roles starting 2026
-    - Research collaborations in NLP and Computer Vision
-    - Open source AI/ML projects
-    - Technical mentorship and engineering communities
-```
+**Open To:**
+- Full-time SWE or ML Engineering roles starting 2026
+- Research collaborations in NLP and Computer Vision
+- Open source AI/ML projects
+- Technical mentorship and engineering communities
 
 ---
 
