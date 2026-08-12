@@ -291,9 +291,6 @@ Architected Flutter-to-native bridges using platform channels to invoke Java/Kot
 
 ---
 
-<p align="center">
-  <em>"The best engineers don't just write code — they build systems that outlast the problems that inspired them."</em>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" width="100%"/>
