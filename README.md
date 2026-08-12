@@ -47,7 +47,6 @@ I'm an incoming M.S. Computer Science, Artificial Intelligence student at the Un
 
 When I'm not coding, you will probably find me exploring coffee shops, going to the beach, or playing with my dog, Sky. Shoot me a message! I am always happy to chat about roles, projects, and ideas.
 </p>
----
 
 ## 🛠 Tech Stack
 
