@@ -19,7 +19,6 @@
 
 <p align="center">
   <a href="https://richardzhang.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/richard-zhang-6784b0191" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
