@@ -47,12 +47,6 @@ I'm an incoming M.S. Computer Science, Artificial Intelligence student at the Un
 
 When I'm not coding, you will probably find me exploring coffee shops, going to the beach, or playing with my dog, Sky. Shoot me a message! I am always happy to chat about roles, projects, and ideas.
 </p>
-
-**Open To:**
-- 🔹 Full-Time SWE / ML Engineering Roles (2026)
-- 🔹 Research Collaborations in NLP and Computer Vision
-- 🔹 AI-powered Product Engineering Projects
-
 ---
 
 ## 🛠 Tech Stack
@@ -225,19 +219,6 @@ Architected Flutter-to-native bridges using platform channels to invoke Java/Kot
 </p>
 
 </details>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richzhangg&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richzhangg&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richzhangg&bg_color=0D0D0D&color=8B5CF6&line=7C3AED&point=6A0DAD&area=true&hide_border=true" width="100%"/>
-</p>
 
 ---
 
