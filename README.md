@@ -38,26 +38,6 @@
   <img src="https://img.shields.io/github/stars/richzhangg?style=flat-square&color=7C3AED&label=Stars"/>
 </p>
 
----
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Object Detection** | ████████████ Expert | SSD MobileNet V3, TensorFlow/Keras, OpenCV, real-time bounding box inference at 30 fps |
-| **NLP & Text Processing** | ███████████░ Advanced | HuggingFace Transformers, RoBERTa, BART, spaCy, YAKE, SentenceTransformers |
-| **ML Model Training** | ███████████░ Advanced | PyTorch, TensorFlow, model evaluation, confidence tuning, dataset curation |
-| **Semantic Similarity** | ██████████░░ Proficient | SentenceTransformers, cosine similarity, event clustering pipelines |
-| **News Summarization** | ██████████░░ Proficient | BART abstractive summarization, cross-source viewpoint comparison |
-| **Data Engineering** | ███████████░ Advanced | Azure Synapse Analytics, SQL at scale (1M+ records), Python/C# data pipelines |
-| **Computer Vision** | ██████████░░ Proficient | OpenCV, input resolution tuning, multi-class detection, IoU evaluation |
-
-</div>
-
----
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" width="100%"/>
